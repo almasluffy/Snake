@@ -1,0 +1,11 @@
+c:\users\алмас\source\repos\mysnake\mysnake\bin\Debug\mysnake.exe.config
+c:\users\алмас\source\repos\mysnake\mysnake\bin\Debug\mysnake.exe
+c:\users\алмас\source\repos\mysnake\mysnake\bin\Debug\mysnake.pdb
+c:\users\алмас\source\repos\mysnake\mysnake\obj\Debug\mysnake.csprojResolveAssemblyReference.cache
+c:\users\алмас\source\repos\mysnake\mysnake\obj\Debug\mysnake.csproj.CoreCompileInputs.cache
+c:\users\алмас\source\repos\mysnake\mysnake\obj\Debug\mysnake.exe
+c:\users\алмас\source\repos\mysnake\mysnake\obj\Debug\mysnake.pdb
+c:\users\алмас\source\repos\mysnake\mysnake\bin\Debug\level.txt
+C:\Users\Алмас\source\repos\mysnake\mysnake\bin\Debug\level1.txt
+C:\Users\Алмас\source\repos\mysnake\mysnake\bin\Debug\level2.txt
+C:\Users\Алмас\source\repos\mysnake\mysnake\bin\Debug\bonuslevel.txt
